@@ -1,0 +1,25 @@
+{
+  "name": "w1d1-html",
+  "version": "1.0.0",
+  "description": "This is the class activity for CICCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokomac/w1d1-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yokomac/w1d1-html/issues"
+  },
+  "homepage": "https://github.com/yokomac/w1d1-html#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
